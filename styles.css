@@ -19,7 +19,7 @@
 }
 
 body {
-    background-image:
+    background: "img/Fundo.png";
     font-family: var(--fonte-principal);
     font-size: 20px;
     font-weight: 400;
